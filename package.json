@@ -12,13 +12,13 @@
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/vittominacori/bep20-generator/issues"
+    "url": "https://github.com/hikecoder/bep20-generator/issues"
   },
   "license": "MIT",
-  "author": "Vittorio Minacori (https://github.com/vittominacori)",
+  "author": "Vittorio Minacori (https://github.com/hikecoder)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vittominacori/bep20-generator.git"
+    "url": "https://github.com/hikecoder/bep20-generator.git"
   },
   "dependencies": {
     "@saeris/vue-spinners": "^1.0.8",

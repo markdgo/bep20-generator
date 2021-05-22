@@ -18,7 +18,7 @@
                             <b-list-group-item to="/create-token/" class="text-light">
                                 Create BEP20 Token
                             </b-list-group-item>
-                            <b-list-group-item href="https://vittominacori.github.io/erc20-generator/" target="_blank" class="text-warning">
+                            <b-list-group-item href="https://hikecoder.github.io/erc20-generator/" target="_blank" class="text-warning">
                                 Create ERC20 Token
                             </b-list-group-item>
                         </b-list-group>
@@ -38,8 +38,8 @@
                     <b-list-group-item>
                         <small>
                             created by
-                            <b-link class="text-warning" href="https://vittominacori.github.io/" target="_blank">
-                                vittominacori
+                            <b-link class="text-warning" href="https://hikecoder.github.io/" target="_blank">
+                                hikecoder
                             </b-link>
                         </small>
                     </b-list-group-item>
@@ -54,7 +54,7 @@
             <b-embed
                     type="iframe"
                     aspect="4by3"
-                    src="https://vittominacori.github.io/bep20-generator-terms/"
+                    src="https://hikecoder.github.io/bep20-generator-terms/"
                     allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture"
                     allowfullscreen
             ></b-embed>

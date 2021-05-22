@@ -395,7 +395,7 @@
     "version": "0.7.6+commit.7338295f.Emscripten.clang"
   },
   "devdoc": {
-    "author": "BEP20 Generator (https://vittominacori.github.io/bep20-generator)",
+    "author": "BEP20 Generator (https://hikecoder.github.io/bep20-generator)",
     "details": "Implementation of the SimpleBEP20",
     "kind": "dev",
     "methods": {

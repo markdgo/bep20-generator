@@ -13,5 +13,5 @@ meta:
     - property: og:description
       content: BEP20 Token Generator Documentation. Discover more details about different BEP20 Token Types, ABI, source code and analysis report.
     - property: og:url
-      content: https://vittominacori.github.io/bep20-generator/docs/
+      content: https://hikecoder.github.io/bep20-generator/docs/
 ---

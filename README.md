@@ -12,7 +12,7 @@ meta:
     - property: og:description
       content: Create a BEP20 Token in less than a minute with the new Smart Contract Generator for BEP20 Token. No login. No setup. No coding required.
     - property: og:url
-      content: https://vittominacori.github.io/bep20-generator/
+      content: https://hikecoder.github.io/bep20-generator/
 ---
 
 # BEP20 Token Generator - DAPP
@@ -21,7 +21,7 @@ Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable BEP20 To
 
 ## Smart Contracts Source
  
-Discover Smart Contracts source [here](https://github.com/vittominacori/bep20-generator).
+Discover Smart Contracts source [here](https://github.com/hikecoder/bep20-generator).
 
 ## Install dependencies
 
@@ -55,4 +55,4 @@ npm run deploy
 
 ## License
 
-Code released under the [MIT License](https://github.com/vittominacori/bep20-generator/blob/master/LICENSE).
+Code released under the [MIT License](https://github.com/hikecoder/bep20-generator/blob/master/LICENSE).
