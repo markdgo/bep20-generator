@@ -145,3 +145,4 @@ The `sol2uml` generates UML class diagram from Solidity contracts.
 ## License
 
 Code released under the [MIT License](https://github.com/hikecoder/bep20-generator/blob/master/LICENSE).
+
