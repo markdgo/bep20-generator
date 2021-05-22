@@ -1,7 +1,7 @@
 function shouldBehaveLikeGeneratorCopyright (version) {
   describe('should have', function () {
     const _builtOn = {
-      generator: 'https://vittominacori.github.io/bep20-generator',
+      generator: 'https://hikecoder.github.io/bep20-generator',
     };
 
     it('a generator value', async function () {

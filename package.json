@@ -37,17 +37,17 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/vittominacori/bep20-generator.git"
+    "url": "https://github.com/hikecoder/bep20-generator.git"
   },
-  "homepage": "https://vittominacori.github.io/bep20-generator",
+  "homepage": "https://hikecoder.github.io/bep20-generator",
   "bugs": {
-    "url": "https://github.com/vittominacori/bep20-generator/issues"
+    "url": "https://github.com/hikecoder/bep20-generator/issues"
   },
   "author": "Vittorio Minacori",
   "contributors": [
     {
       "name": "Vittorio Minacori",
-      "url": "https://github.com/vittominacori"
+      "url": "https://github.com/hikecoder"
     }
   ],
   "license": "MIT",
