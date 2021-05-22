@@ -5,17 +5,17 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>https://vittominacori.github.io/bep20-generator/</loc>
+        <loc>https://hikecoder.github.io/bep20-generator/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>https://vittominacori.github.io/bep20-generator/create-token/</loc>
+        <loc>https://hikecoder.github.io/bep20-generator/create-token/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>https://vittominacori.github.io/bep20-generator/docs/</loc>
+        <loc>https://hikecoder.github.io/bep20-generator/docs/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.00</priority>
     </url>
