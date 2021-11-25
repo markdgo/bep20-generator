@@ -1,14 +1,14 @@
 # BEP20 Token Generator
 
-[![CI](https://github.com/barttpro/bep20-generator/workflows/CI/badge.svg?branch=master)](https://github.com/barttpro/bep20-generator/actions/)
-[![Coverage Status](https://coveralls.io/repos/github/barttpro/bep20-generator/badge.svg?branch=master)](https://coveralls.io/github/barttpro/bep20-generator?branch=master)
-[![MIT licensed](https://img.shields.io/github/license/barttpro/bep20-generator.svg)](https://github.com/barttpro/bep20-generator/blob/master/LICENSE)
+[![CI](https://github.com/defipro/bep20-generator/workflows/CI/badge.svg?branch=master)](https://github.com/defipro/bep20-generator/actions/)
+[![Coverage Status](https://coveralls.io/repos/github/defipro/bep20-generator/badge.svg?branch=master)](https://coveralls.io/github/defipro/bep20-generator?branch=master)
+[![MIT licensed](https://img.shields.io/github/license/defipro/bep20-generator.svg)](https://github.com/defipro/bep20-generator/blob/master/LICENSE)
 
 The new Smart Contract Generator for BEP20 Token.
 
 ## Try it
 
-[https://barttpro.github.io/bep20-generator](https://barttpro.github.io/bep20-generator)
+[https://defipro.github.io/bep20-generator](https://defipro.github.io/bep20-generator)
 
 
 ## Development
@@ -144,5 +144,5 @@ The `sol2uml` generates UML class diagram from Solidity contracts.
 
 ## License
 
-Code released under the [MIT License](https://github.com/barttpro/bep20-generator/blob/master/LICENSE).
+Code released under the [MIT License](https://github.com/defipro/bep20-generator/blob/master/LICENSE).
 
